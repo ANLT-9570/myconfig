@@ -7,6 +7,9 @@ zuul:
     order-service:
       path: /order-service/**
       service-id: app-order
+  host:
+    connect-timeout-millis: 15000
+    socket-timeout-millis: 60000
 
   
 name: 9999
