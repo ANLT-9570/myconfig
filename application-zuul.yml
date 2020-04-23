@@ -8,4 +8,4 @@ zuul:
       path: /order-service/**
       service-id: app-order
    
-name = asdasdasd
+name: 9999
