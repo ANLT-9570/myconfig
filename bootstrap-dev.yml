@@ -1,2 +1,4 @@
-server:
-  port: 99999 #服务端口
+jdbc.url: jdbc:mysql://cdb-am792v42.bj.tencentcdb.com:10041/cloud
+jdbc.username: root
+jdbc.password: wech111933
+jdbc.driver-class-name: com.mysql.cj.jdbc.Driver
