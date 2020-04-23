@@ -7,3 +7,5 @@ zuul:
     order-service:
       path: /order-service/**
       service-id: app-order
+   
+name = asdasdasd
